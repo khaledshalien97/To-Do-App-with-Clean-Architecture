@@ -1,6 +1,24 @@
 # to_do_app_clean_arch
 
-A new Flutter project.
+📋 To-Do App with Clean Architecture
+This To-Do App is a simple yet robust Flutter application designed to display data in a list format. The app is built using Clean Architecture, ensuring a scalable, maintainable, and testable codebase.
+
+✨ Features
+📝 Display a list of items dynamically.
+🔄 Clean and modular architecture for efficient development.
+📂 Separation of concerns (presentation, domain, and data layers).
+✅ Focus on scalability and testability.
+
+🛠️ Technologies & Tools
+Flutter: For building cross-platform UI.
+BLoC State Management: To handle state efficiently.
+Dart: Primary programming language.
+Clean Architecture: To ensure a modular and maintainable structure.
+
+📐 Architecture Overview
+Presentation Layer: Contains UI and state management (using BLoC).
+Domain Layer: Handles business logic and use cases.
+Data Layer: Manages data retrieval from APIs or local storage.
 
 ## Getting Started
 
