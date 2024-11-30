@@ -32,6 +32,7 @@ Presentation Layer: Contains UI and state management (using BLoC).
 Domain Layer: Handles business logic and use cases.
 
 Data Layer: Manages data retrieval from APIs or local storage.
+![Uploading Simulator Screenshot - iPhone 15 Pro Max - 2024-11-29 at 01.24.53.png…]()
 
 
 ## Getting Started
